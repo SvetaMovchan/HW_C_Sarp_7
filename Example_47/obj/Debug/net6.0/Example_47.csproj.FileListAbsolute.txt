@@ -1,0 +1,16 @@
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\bin\Debug\net6.0\Example_47.exe
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\bin\Debug\net6.0\Example_47.deps.json
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\bin\Debug\net6.0\Example_47.runtimeconfig.json
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\bin\Debug\net6.0\Example_47.dll
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\bin\Debug\net6.0\ref\Example_47.dll
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\bin\Debug\net6.0\Example_47.pdb
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.GlobalUsings.g.cs
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.csproj.AssemblyReference.cache
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.AssemblyInfoInputs.cache
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.AssemblyInfo.cs
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.csproj.CoreCompileInputs.cache
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.dll
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\ref\Example_47.dll
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.pdb
+D:\Учеба\Знакомство с языками программирования (семинары)\HW_C#_7\Example_47\obj\Debug\net6.0\Example_47.genruntimeconfig.cache
